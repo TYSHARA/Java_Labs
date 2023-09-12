@@ -4,6 +4,10 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+.bat
+.swp
+.xml
+.log
 .apt_generated
 .classpath
 .factorypath
